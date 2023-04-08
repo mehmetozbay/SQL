@@ -1,0 +1,1 @@
+SELECT * FROM proje1.urunler;
